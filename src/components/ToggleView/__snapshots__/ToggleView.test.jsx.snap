@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ToggleView component Smoke test (Snapshot test) should ToggleView render 1`] = `
+<DocumentFragment>
+  <div
+    style="display: flex; justify-content: end; align-items: center; margin: 5px 50px;"
+  >
+    <p
+      style="margin: 0px 10px 0px 0px; font-weight: 700;"
+    >
+      Показати у вигляді карток
+    </p>
+    <i
+      style="display: flex; cursor: pointer;"
+    >
+      <svg>
+        toggle-on.svg
+      </svg>
+    </i>
+  </div>
+</DocumentFragment>
+`;

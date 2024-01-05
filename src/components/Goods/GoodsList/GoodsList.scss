@@ -1,0 +1,12 @@
+.goods_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin: 10px 50px;
+    flex-grow: 1;
+
+    &.table {
+        flex-direction: column;
+    }
+}

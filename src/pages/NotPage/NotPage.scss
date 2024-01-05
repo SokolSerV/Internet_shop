@@ -1,0 +1,13 @@
+.not-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.not-page_title,
+.not-page_description,
+.not-page_linkHome {
+    margin: 0;
+    line-height: 2;
+}

@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component Smoke test (Snapshot test) should Header render 1`] = `
+<DocumentFragment>
+  <header
+    class="header"
+  >
+    <div
+      class="header_wrapper"
+    >
+      <span
+        class="header_logo"
+      >
+        <svg>
+          logo.svg
+        </svg>
+      </span>
+      <p
+        class="header_title"
+      >
+        Сторінка інтернет-магазину
+      </p>
+      <div>
+        Navigation
+      </div>
+      <div
+        class="header_icons"
+      >
+        <span
+          class="favorites"
+        >
+          <svg>
+            favourite.svg
+          </svg>
+          <span
+            class="counter"
+          >
+            0
+          </span>
+        </span>
+        <span
+          class="basket"
+        >
+          <svg>
+            basket.svg
+          </svg>
+          <span
+            class="counter"
+          >
+            0
+          </span>
+        </span>
+      </div>
+    </div>
+  </header>
+</DocumentFragment>
+`;

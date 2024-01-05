@@ -1,0 +1,91 @@
+[
+    {
+        "name": "Футболка Camimera 135 біла",
+        "price": 505,
+        "image": "https://content2.rozetka.com.ua/goods/images/big/247685951.jpg",
+        "article": "TP-0450-01",
+        "color": "Білий",
+        "id": 1
+    },
+
+    {
+        "name": "Футболка Camimera 135 чорна",
+        "price": 505,
+        "image": "https://content.rozetka.com.ua/goods/images/big/247685891.jpg",
+        "article": "TP-0450-02",
+        "color": "Чорний",
+        "id": 2
+    },
+
+    {
+        "name": "Футболка Camimera 135 синя",
+        "price": 505,
+        "image": "https://content2.rozetka.com.ua/goods/images/big/247684926.jpg",
+        "article": "TP-0450-05",
+        "color": "Синій",
+        "id": 3
+    },
+
+    {
+        "name": "Футболка Camimera 135 жовта",
+        "price": 503,
+        "image": "https://content.rozetka.com.ua/goods/images/big/247685238.jpg",
+        "article": "TP-0450-03",
+        "color": "Жовтий",
+        "id": 4
+    },
+
+    {
+        "name": "Футболка Camimera 135 червона",
+        "price": 505,
+        "image": "https://content.rozetka.com.ua/goods/images/big/247684713.jpg",
+        "article": "TP-0450-60",
+        "color": "Червоний",
+        "id": 5
+    },
+
+    {
+        "name": "Футболка Camimera 135 зелена",
+        "price": 503,
+        "image": "https://content1.rozetka.com.ua/goods/images/big/247686251.jpg",
+        "article": "TP-0450-226",
+        "color": "Зелений",
+        "id": 6
+    },
+
+    {
+        "name": "Футболка Camimera 135 орандж",
+        "price": 505,
+        "image": "https://content.rozetka.com.ua/goods/images/big/247684764.jpg",
+        "article": "TP-0450-223",
+        "color": "Помаранчевий",
+        "id": 7
+    },
+
+    {
+        "name": "Футболка Camimera 135 лимон",
+        "price": 505,
+        "image": "https://content.rozetka.com.ua/goods/images/big/247685212.jpg",
+        "article": "TP-0450-221",
+        "color": "Лимон",
+        "id": 8
+    },
+
+    {
+        "name": "Футболка Camimera 135 лайм",
+        "price": 505,
+        "image": "https://content1.rozetka.com.ua/goods/images/big/247684884.jpg",
+        "article": "TP-0450-225",
+        "color": "Лайм",
+        "id": 9
+    },
+
+    {
+        "name": "Футболка Camimera 135 сіра",
+        "price": 503,
+        "image": "https://content2.rozetka.com.ua/goods/images/big/247685156.jpg",
+        "article": "TP-0450-46",
+        "color": "Сіра",
+        "id": 10
+    }
+]

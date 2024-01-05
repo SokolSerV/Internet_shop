@@ -1,0 +1,14 @@
+.root {
+    display: flex;
+    flex-direction: column;
+    min-height: 65px;
+
+    input {
+        padding: 3px;
+    }
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+}

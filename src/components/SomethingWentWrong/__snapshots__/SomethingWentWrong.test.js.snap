@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SomethingWentWrong component Smoke test (Snapshot test) should SomethingWentWrong render 1`] = `
+<DocumentFragment>
+  <div
+    style="text-align: center;"
+  >
+    <h2>
+      Something went wrong ...
+    </h2>
+    <h3>
+      Try to reload page
+    </h3>
+    <button>
+      Reload
+    </button>
+  </div>
+</DocumentFragment>
+`;

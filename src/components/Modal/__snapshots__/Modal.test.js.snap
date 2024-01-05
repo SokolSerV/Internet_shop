@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Modal component Smoke test (Snapshot test) should Modal render 1`] = `
+<DocumentFragment>
+  <div
+    class="modal-wrapper"
+  >
+    <div
+      class="modal"
+    >
+      <div
+        class="modal-box"
+      >
+        <button
+          class="modal-close"
+          type="button"
+        >
+          <svg>
+            cross.svg
+          </svg>
+        </button>
+        <div
+          class="modal-header"
+        >
+          <p>
+            Test-header
+          </p>
+        </div>
+        <div
+          class="modal-content"
+        >
+          <p>
+            Test-text
+          </p>
+        </div>
+        <div
+          class="modal-footer"
+        >
+          <div
+            class="button-wrapper"
+          >
+            <button>
+              Click
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
