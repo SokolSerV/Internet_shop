@@ -14,7 +14,7 @@ export default function AppRoutes() {
                 element={<PageFavourite />}
             />
             <Route path="/Internet_shop/basket" element={<PageBasket />} />
-            <Route path="*" element={<NotPage />} />
+            <Route path="/Internet_shop/*" element={<NotPage />} />
         </Routes>
     );
 }
