@@ -18,9 +18,7 @@ export const { setGoods } = goodsSlice.actions;
 
 export const fetchGoods = () => {
     return async (dispatch) => {
-        const data = await fetch("http://localhost:3000/goods.json").then(
-            (resp) => resp.json()
-        );
+        const data = await fetch("goods.json").then((resp) => resp.json());
         dispatch(setGoods(data));
     };
 };
