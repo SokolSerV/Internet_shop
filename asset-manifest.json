@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Internet_shop/static/css/main.0757c826.css",
+    "main.js": "/Internet_shop/static/js/main.8b17290f.js",
+    "static/media/basket.svg": "/Internet_shop/static/media/basket.92aeb23646cba255e2e3bdfafab8ff10.svg",
+    "index.html": "/Internet_shop/index.html",
+    "static/media/skullCrossbones.svg": "/Internet_shop/static/media/skullCrossbones.be5057dcdfb1df6753ab29ae7282181a.svg",
+    "static/media/logo.svg": "/Internet_shop/static/media/logo.66aecf2d7bcb0e3f4ddd4f0597a91a56.svg",
+    "static/media/favourite.svg": "/Internet_shop/static/media/favourite.e7819d1e57b1c8b49ac4d281839aa9f0.svg",
+    "static/media/select.svg": "/Internet_shop/static/media/select.4c66d6231a57cf463acd45e1f67bf2c3.svg",
+    "static/media/toggle-off.svg": "/Internet_shop/static/media/toggle-off.edcf41defbb4fd6befc255f88b155786.svg",
+    "static/media/cross.svg": "/Internet_shop/static/media/cross.6768377118351fb478fe984e93f1226c.svg",
+    "static/media/toggle-on.svg": "/Internet_shop/static/media/toggle-on.cf2e8515ea3088ebcf2dc4ec5341acfd.svg",
+    "main.0757c826.css.map": "/Internet_shop/static/css/main.0757c826.css.map",
+    "main.8b17290f.js.map": "/Internet_shop/static/js/main.8b17290f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0757c826.css",
+    "static/js/main.8b17290f.js"
+  ]
+}
