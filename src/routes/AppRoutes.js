@@ -8,7 +8,7 @@ import NotPage from "../pages/NotPage";
 export default function AppRoutes() {
     return (
         <Routes>
-            <Route path="/" element={<PageHome />} />
+            <Route path="/Internet_shop/" element={<PageHome />} />
             <Route path="favourite" element={<PageFavourite />} />
             <Route path="basket" element={<PageBasket />} />
             <Route path="*" element={<NotPage />} />
