@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Internet_shop/static/css/main.0757c826.css",
-    "main.js": "/Internet_shop/static/js/main.8b17290f.js",
+    "main.js": "/Internet_shop/static/js/main.71aa5efe.js",
     "static/media/basket.svg": "/Internet_shop/static/media/basket.92aeb23646cba255e2e3bdfafab8ff10.svg",
     "index.html": "/Internet_shop/index.html",
     "static/media/skullCrossbones.svg": "/Internet_shop/static/media/skullCrossbones.be5057dcdfb1df6753ab29ae7282181a.svg",
@@ -12,10 +12,10 @@
     "static/media/cross.svg": "/Internet_shop/static/media/cross.6768377118351fb478fe984e93f1226c.svg",
     "static/media/toggle-on.svg": "/Internet_shop/static/media/toggle-on.cf2e8515ea3088ebcf2dc4ec5341acfd.svg",
     "main.0757c826.css.map": "/Internet_shop/static/css/main.0757c826.css.map",
-    "main.8b17290f.js.map": "/Internet_shop/static/js/main.8b17290f.js.map"
+    "main.71aa5efe.js.map": "/Internet_shop/static/js/main.71aa5efe.js.map"
   },
   "entrypoints": [
     "static/css/main.0757c826.css",
-    "static/js/main.8b17290f.js"
+    "static/js/main.71aa5efe.js"
   ]
 }
