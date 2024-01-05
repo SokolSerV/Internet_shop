@@ -12,7 +12,7 @@ export default function NotPage() {
                 Поверніться на головну сторінку і спробуйте ще раз.
             </p>
             <p className="not-page_linkHome">
-                <Link to="/">Головна сторінка</Link>
+                <Link to="/Internet_shop/">Головна сторінка</Link>
             </p>
         </div>
     );

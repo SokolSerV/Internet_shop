@@ -9,8 +9,11 @@ export default function AppRoutes() {
     return (
         <Routes>
             <Route path="/Internet_shop/" element={<PageHome />} />
-            <Route path="favourite" element={<PageFavourite />} />
-            <Route path="basket" element={<PageBasket />} />
+            <Route
+                path="/Internet_shop/favourite"
+                element={<PageFavourite />}
+            />
+            <Route path="/Internet_shop/basket" element={<PageBasket />} />
             <Route path="*" element={<NotPage />} />
         </Routes>
     );

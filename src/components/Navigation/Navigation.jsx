@@ -11,7 +11,7 @@ export default function Navigation() {
             <ul className="nav_list">
                 <li className="nav_item">
                     <Link
-                        to="/"
+                        to="/Internet_shop/"
                         className={cn("nav_link", { active: pathname === "/" })}
                     >
                         Головна сторінка
@@ -19,7 +19,7 @@ export default function Navigation() {
                 </li>
                 <li className="nav_item">
                     <Link
-                        to="/favourite"
+                        to="/Internet_shop/favourite"
                         className={cn("nav_link", {
                             active: pathname === "/favourite",
                         })}
@@ -29,7 +29,7 @@ export default function Navigation() {
                 </li>
                 <li className="nav_item">
                     <Link
-                        to="/basket"
+                        to="/Internet_shop/basket"
                         className={cn("nav_link", {
                             active: pathname === "/basket",
                         })}
